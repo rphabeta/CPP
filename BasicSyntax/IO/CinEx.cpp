@@ -7,6 +7,7 @@ int main(){
     cout << b << "\n"; 
     return 0;
 }
+
 /*
 입력
 빨간 사과
