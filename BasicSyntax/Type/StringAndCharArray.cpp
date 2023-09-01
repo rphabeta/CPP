@@ -4,11 +4,11 @@ int main(){
     string a = "금요일~";
     cout << a[0] << "\n";
     cout << a[0] << a[1] << a[2] << '\n'; 
-	cout << a << "\n";
+    cout << a << "\n";
     string b = "abc";
     cout << b[0] << "\n";
     cout << b << "\n";
-	return 0;
+    return 0;
 }
 
 /* 
